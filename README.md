@@ -1,6 +1,4 @@
-Thanks! Here's your updated and polished **profile README** including **Vue.js** and all related technologies you likely work with:
 
----
 
 ### 👨‍💻 Software Engineer | Freelancer | Hackathon Winner 2024
 
@@ -63,4 +61,3 @@ Hi! I'm a dedicated **Full-Stack Software Engineer** with over **6 years of expe
 * **GitHub**: \[github.com/AhmadMkhlalati7]
 * **LinkedIn**: \[linkedin.com/in/AhmadMkhlalati]
 
----
